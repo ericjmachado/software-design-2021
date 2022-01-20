@@ -1,1 +1,1 @@
-
+A solução do professor procura solucionar o quadrado mágico possível, se tratando de um quadrado mágico 4x4 que se usa de força bruta e algoritmos gulosos para serem solucionados, a tatíca apresentada pelo professor de dívidir para conquistar se mostra muito promissora, poís diminui a complexidade do algortimo. Não consegui propor uma solução, porém esses são meus pontos argumentativos.
